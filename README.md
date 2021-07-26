@@ -82,3 +82,6 @@ https://deepmind.com/research/publications/
 ## Disclaimer
 
 *This is not an official Google product.*
+
+# Main paper link in ICML 2021, from Google
+* [Link](http://www.aitimes.kr/news/articleView.html?idxno=21837)
